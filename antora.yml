@@ -1,0 +1,5 @@
+name: architecture
+title: Architecture
+version: 1.0
+nav:
+  - modules/ROOT/nav.adoc
